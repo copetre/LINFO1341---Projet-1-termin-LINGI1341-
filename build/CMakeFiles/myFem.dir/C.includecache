@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/coren/OneDrive/Documents/Q6 2020-2021/LEPL1110 - ElFi/Devoir 4/Poisson/src/fem.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+
+/mnt/c/Users/coren/OneDrive/Documents/Q6 2020-2021/LEPL1110 - ElFi/Devoir 4/Poisson/src/homework.c
+fem.h
+/mnt/c/Users/coren/OneDrive/Documents/Q6 2020-2021/LEPL1110 - ElFi/Devoir 4/Poisson/src/fem.h
+
